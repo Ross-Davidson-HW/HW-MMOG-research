@@ -19,13 +19,13 @@ For this project, I ultimately focused on three games, all making use of mainstr
 
 A variety of methods were used, from exploring prior research to scraping data myself. Each of these methods is listed in the final document, but are focused on these key areas:
 
--Latency
--Version Control
--Cross-platform
--Genre
--Packet size and load
--Topology
--Security
+- Latency
+- Version Control
+- Cross-platform
+- Genre
+- Packet size and load
+- Topology
+- Security
 
 ## Findings and Results
 
